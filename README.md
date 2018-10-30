@@ -9,16 +9,19 @@ Todo Full-stack app using node.js and vue.js
 - Animate.css
 - Joi
 
-#### version
+### version
 1.0.0
 
-#### installation
+### installation
 ##### Client installation
 $ cd client
+
 $ npm install
+
 
 ##### Server installation
 $ cd server
+
 $ npm install
 
 
