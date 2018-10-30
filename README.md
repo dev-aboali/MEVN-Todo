@@ -14,15 +14,15 @@ Todo Full-stack app using node.js and vue.js
 
 ### installation
 ##### Client installation
-$ cd client
+1- $ cd client
 
-$ npm install
+2- $ npm install
 
 
 ##### Server installation
-$ cd server
+1- $ cd server
 
-$ npm install
+2- $ npm install
 
 
 #### Running 
